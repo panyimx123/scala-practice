@@ -1,6 +1,6 @@
-organization := "com.ygomi.asample"
+organization := "ypan2.practice"
 
-name := "rdb-server-log-maker"
+name := "scala-practice"
 
 version := "1.0"
 
