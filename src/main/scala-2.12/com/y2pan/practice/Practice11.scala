@@ -1,6 +1,7 @@
 package com.y2pan.practice
 
 import scala.collection.mutable.ArrayBuffer
+import scala.language.dynamics
 
 
 class Fraction(n: Int, d: Int) {

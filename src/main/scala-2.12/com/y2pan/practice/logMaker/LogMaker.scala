@@ -5,7 +5,6 @@ import java.util.concurrent.{ExecutorService, Executors, TimeUnit}
 import java.util.{Properties, UUID}
 
 import com.y2pan.practice.logMaker.generator._
-import com.ygomi.roadDB.logMaker.generator._
 import org.slf4j.LoggerFactory
 import sun.misc.{Signal, SignalHandler}
 
